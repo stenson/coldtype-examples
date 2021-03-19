@@ -20,8 +20,7 @@ def highlight(f):
                 wdth=0.25,
                 wght=f.a.progress(f.i, loops=1, easefn="eeio").e, fill=hsl(0.9, 0.8, 0.8),
                 stroke=hsl(0.55, 0.7),
-                strokeWidth=5)
-        })
+                strokeWidth=5)})
         .xa()
         .align(f.a.r))
     rt[-1].rotate(2)
